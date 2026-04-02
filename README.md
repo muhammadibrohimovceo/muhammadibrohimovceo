@@ -10,4 +10,4 @@ At the moment, I am deepening my knowledge in advanced Python, system design, mi
 
 My goal is to reach an international engineering level as a data scientist and AI/ML engineer, with strong backend and architectural expertise.
 
-GitHub: https://github.com/muhammadibrohimovce
+GitHub: https://github.com/muhammadibrohimovceo
